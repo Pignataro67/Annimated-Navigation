@@ -19,4 +19,6 @@ body {
 
 .nav {
   position: fixed;
+  background-color: #222;
+  top: 0;
 }
